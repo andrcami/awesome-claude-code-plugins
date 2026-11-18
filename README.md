@@ -74,6 +74,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [claude-recap](https://github.com/hatawong/claude-recap) — Per-topic session memory using Shell hooks — archives each conversation topic as a separate Markdown summary. Two hooks, bash + Node.js, 100% local.
 - [claude-desktop-extension](./plugins/claude-desktop-extension)
 - [equilateral-agents](https://github.com/Equilateral-AI/equilateral-agents-open-core) - 22 self-learning agents with memory, security review, code quality, deployment validation, and infrastructure checks
+- [Forge](https://github.com/andrcami/Forge) - Gated scope, architecture, design and build phases that generate stack-specific project skills, plus a private git-backed lesson library that carries corrections from one project into the next.
 - [lyra](./plugins/lyra)
 - [magebyte-power](https://github.com/MageByte-Zero/magebyte-power) — Production-incident-distilled Claude Code skill: 7-phase workflow with 4-round AI cross-verification that catches concurrency & idempotency bugs before prod
 - [model-context-protocol-mcp-expert](./plugins/model-context-protocol-mcp-expert)
